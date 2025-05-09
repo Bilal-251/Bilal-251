@@ -1,12 +1,39 @@
-- 👋 Hi, I’m Muhammad Bilal Yousaf @Bilal-251
-- 👀 I’m interested in Python Development,Web Development,Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning, Deep Learning
-- 💞️ I’m looking to collaborate on Machine Learning, Deep Learing Projects
-- 📫 https://www.linkedin.com/in/codeninja626/
-- 😄 Pronouns: he/him
+# 👋 Hello there, I'm Muhammad Bilal Yousaf (@Bilal-251)
+
+### 🚀 Machine Learning & Generative AI Enthusiast | 🐍 Python Developer | 🤖 LLM & Chatbot Developer
 
 
-<!---
-Bilal-251/Bilal-251 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👀 About Me
+- 🎯 Passionate about **Python**, **Web Development**, and **AI/ML**
+- 📚 Currently exploring **Machine Learning** and **Deep Learning** frameworks
+- 🤝 Open to collaborations on **AI**, **NLP**, **Computer Vision**, and **Full-Stack Projects**
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/codeninja626/)
+
+---
+
+## 💼 What I Love Building
+- 🧠 Intelligent Systems
+- 🌐 Scalable Web Applications
+- 🛠️ Automation Tools
+- 🎓 Educational AI Projects
+
+---
+
+## 🌱 Currently Learning
+- 🤖 Transformers & Pretrained Models
+- 📈 Data Science and Model Evaluation Techniques
+- 🧰 Deployment of ML Models (Flask, Docker)
+
+---
+
+## 📫 Reach Out
+- ✉️ Drop a message via [LinkedIn](https://www.linkedin.com/in/codeninja626/)
+- 💬 Pronouns: he/him
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
