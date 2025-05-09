@@ -22,9 +22,11 @@
 ---
 
 ## 🌱 Currently Learning
-- 🤖 Transformers & Pretrained Models
-- 📈 Data Science and Model Evaluation Techniques
-- 🧰 Deployment of ML Models (Flask, Docker)
+- 🤖 Multi-Agent Systems & Agentic RAG Architectures
+- 📚 Advanced Concepts in Generative AI
+- 🧠 Transformers & Pretrained Language Models
+- 🚀 Model Deployment & Serving (Flask, Docker)
+
 
 ---
 
